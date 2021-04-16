@@ -1,13 +1,19 @@
-<h1 align="center">Hi 👋, I'm Krishna</h1>
-<h3 align="center">A passionate Data Science from India</h3>
+<h1 align="center">Hi Viewers 👋, I'm Krishna</h1>
+<div>
+<img align="right" alt="GIF" src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="500" height="320" />
 
- <img align="right" alt="GIF" src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="500" height="320" />
+</div>
 
 ### I have technical experience and interest in -
 * Machine Learning
 * Deep Learning
 * Computer vision 
 * Natural Language Processing 
+
+
+
+
+
 
 
 
@@ -42,3 +48,7 @@
 <a href="https://www.linkedin.com/in/krishna-nanda-690a1412a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/krishna-nanda-690a1412a/" height="30" width="40" /></a>
 <a href="https://instagram.com/k._.r_.i_.s_.h_.n_.a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/k._.r_.i_.s_.h_.n_.a/" height="30" width="40" /></a>
 </p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=KrishnaNJena&label=Profile%20views&color=0e75b6&style=flat" alt="KrishnaNJena" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=KrishnaNJena&" alt="KrishnaNJena" /></p>
