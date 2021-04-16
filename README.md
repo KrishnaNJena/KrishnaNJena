@@ -3,10 +3,14 @@
 
  <img align="right" alt="GIF" src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="500" height="320" />
 
+### I have technical experience and interest in -
+* Machine Learning
+* Deep Learning
+* Computer vision 
+* Natural Language Processing 
 
-- 👨‍💻 All of my projects are available at [Github Link](Link)
 
-- 📫 How to reach me **krishnaisb4u@gmail.com**  || **krishnaisb4u@outlook.com**
+
 
 
 
@@ -29,7 +33,9 @@
 
 </details>
 
+- 👨‍💻 All of my projects are available at [Github Link](Link)
 
+- 📫 How to reach me **krishnaisb4u@gmail.com**  || **krishnaisb4u@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
