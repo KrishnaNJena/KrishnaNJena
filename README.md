@@ -1,8 +1,14 @@
-<h2 align="center">Hi Viewers 👋, I'm Krishna</h2>
 <div>
-<img align="right" alt="GIF" src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="500" height="320" />
+<h2 align="center">Hi Viewers 👋, I'm Krishna</h2>
 
+<img align="right" alt="GIF" src="https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif" width="500" height="320" />
 </div>
+
+
+<br>
+<br>
+<br>
+<br>
 
 ### I have technical experience and interest in -
 * Machine Learning
