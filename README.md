@@ -36,7 +36,7 @@
 
 </details>
 
-- 👨‍💻 All of my projects are available at [Github Link](Link)
+- 👨‍💻 All of my projects are available at [Github Repos](https://github.com/KrishnaNJena?tab=repositories)
 
 - 📫 How to reach me **krishnaisb4u@gmail.com**  || **krishnaisb4u@outlook.com**
 
