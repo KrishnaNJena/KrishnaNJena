@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Krishna</h1>
 <h3 align="center">A passionate Data Science from India</h3>
 
+<img align="center" alt="GIF" src="https://media.giphy.com/media/SVgCHJ2n35EA6XFPpO/giphy.gif" width="500" height="320" />
 - 👨‍💻 All of my projects are available at [Github Link](Link)
 
 - 📫 How to reach me **krishnaisb4u@gmail.com**  || **krishnaisb4u@outlook.com**
