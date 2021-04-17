@@ -3,10 +3,6 @@
 
 </div>
 
-
-<br>
-<br>
-<br>
 <br>
 
 ### I have technical experience and interest in -
