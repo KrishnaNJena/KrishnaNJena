@@ -31,7 +31,7 @@
 
 </details>
 
-- 👨‍💻 All of my projects are available at [Github Repos](https://github.com/KrishnaNJena?tab=repositories)
+- 👨‍💻 All of my projects are available at [Krishna Portfolio](https://krishnanjena.github.io/Krishna_PortFolio/)
 
 - 📫 How to reach me **krishnaisb4u@gmail.com**  || **krishnaisb4u@outlook.com**
 
