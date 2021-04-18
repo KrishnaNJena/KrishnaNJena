@@ -31,10 +31,13 @@
 
 </details>
 
+
+
+
+<br><br>
 - 👨‍💻 All of my projects are available [here](https://krishnanjena.github.io/Krishna_PortFolio/)
 
 - 📫 How to reach me **krishnaisb4u@gmail.com**  || **krishnaisb4u@outlook.com**
-
 
 
 
